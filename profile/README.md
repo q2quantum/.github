@@ -1,6 +1,6 @@
 Q² quantum ecosystem is an independent venture studio based in Tbilisi. We build an AI-powered map of the quantum sector to surface technological opportunities and turn the most promising ones into new ventures.
 
-**Open-source contributions** (from our technical due-diligence work on PQC migration and quantum chemistry):
+**Open-source contributions** (from our technical due-diligence work on PQC migration, plus an independent reproduction of a quantum chemistry result):
 
 - [wolfssl](https://github.com/q2quantum/wolfssl) — ML-DSA (FIPS 204) missing modular reduction fix, wolfSSL/wolfssl#11113 (open, in review)
 - [cbomkit-theia](https://github.com/q2quantum/cbomkit-theia) — OpenSSL Groups directive now captured in CBOM, cbomkit/cbomkit-theia#237 (open)
